@@ -1,0 +1,7 @@
+Tokenizer SpacyTokenizer in en with the following rules:
+ - fix_html
+ - replace_rep
+ - replace_wrep
+ - deal_caps
+ - spec_add_spaces
+ - rm_useless_spaces
