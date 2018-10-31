@@ -1,2 +1,19 @@
 https://www.openmined.org/ - read this to understand the possibility of data secure AI training solution
 https://www.pythonanywhere.com/ - productionising python code
+
+https://medium.com/huggingface/universal-word-sentence-embeddings-ce48ddc8fc3a
+elmo - uses bidirectional language model based on characters instead of words
+
+https://openreview.net/forum?id=SyK00v5xx - sentence embeddings
+
+https://tfhub.dev/google/universal-sentence-encoder/2 - googles universal sentence encoder
+
+Can I combine character / word / sentences as inputs for a language model?
+
+Andrew NG deep learning course
+
+covloss (coverage vector) to reduce repeated words
+
+pointer networks to re-utilise words from input text. Read Merity 2016 Pointer sentinel mixture models
+
+vanswani 2017 attention is all you need - self attention and multi head attention
